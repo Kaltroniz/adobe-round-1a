@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": {
+      "role": "Travel Planner"
+    },
+    "job_to_be_done": {
+      "task": "Plan a trip of 4 days for a group of 10 college friends."
+    },
+    "processing_timestamp": "2025-07-28T15:44:58Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 2,
+      "section_title": "Language: While French is the oﬃcial language, English is widely spoken in tourist",
+      "importance_rank": 1,
+      "relevance_score": 0.3218
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "section_title": "Family-Friendly Hotels",
+      "importance_rank": 2,
+      "relevance_score": 0.2321
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 2,
+      "section_title": "Best Time to Visit: The best time to visit the South of France is during the spring (April",
+      "importance_rank": 3,
+      "relevance_score": 0.1764
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 7,
+      "section_title": "Place de l'Horloge: The main square in Avignon, this lively area is surrounded by",
+      "importance_rank": 4,
+      "relevance_score": 0.1701
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 2,
+      "section_title": "Transportation: The region is well-connected by an extensive network of trains,",
+      "importance_rank": 5,
+      "relevance_score": 0.1638
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "section_title": "Upscale Hotels",
+      "importance_rank": 6,
+      "relevance_score": 0.1623
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 8,
+      "section_title": "Budget-Friendly Hotels",
+      "importance_rank": 7,
+      "relevance_score": 0.1483
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 10,
+      "section_title": "Montpellier: A University City with Medieval Charm",
+      "importance_rank": 8,
+      "relevance_score": 0.1481
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 5,
+      "section_title": "Promenade des Anglais: This famous seaside promenade, built in the 19th century, is",
+      "importance_rank": 9,
+      "relevance_score": 0.1471
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 6,
+      "section_title": "Luxurious Restaurants",
+      "importance_rank": 10,
+      "relevance_score": 0.1405
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 2,
+      "sub_section_title": "Language: While French is the oﬃcial language, English is widely spoken in tourist",
+      "refined_text": "areas. Learning a few basic French phrases can enhance your travel experience."
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "sub_section_title": "Family-Friendly Hotels",
+      "refined_text": "•  Club Med Opio en Provence (Opio): A family-friendly resort oﬀering a wide range of  activities for children and adults, including sports, entertainment, and kids' clubs. •  Le Mas de Pierre (Saint-Paul-de-Vence): A luxurious family-friendly hotel oﬀering  spacious rooms, beautiful gardens, and a variety of activities for children. •  Hôtel Le Negresco (Nice): A luxurious family-friendly hotel oﬀering spacious rooms,  beautiful gardens, and a variety of activities for children."
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 2,
+      "sub_section_title": "Best Time to Visit: The best time to visit the South of France is during the spring (April",
+      "refined_text": "to June) and fall (September to October) when the weather is pleasant, and the tourist  crowds are smaller."
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 7,
+      "sub_section_title": "Place de l'Horloge: The main square in Avignon, this lively area is surrounded by",
+      "refined_text": "cafes, restaurants, and historic buildings, including the 19th-century town hall and  opera house. Cultural Activities"
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 2,
+      "sub_section_title": "Transportation: The region is well-connected by an extensive network of trains,",
+      "refined_text": "buses, and flights. Renting a car is also a great option for exploring the countryside  and smaller towns."
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 11,
+      "sub_section_title": "Upscale Hotels",
+      "refined_text": "•  Hotel Negresco (Nice): A historic five-star hotel located on the Promenade des  Anglais, oﬀering luxurious rooms and exceptional service. •  La Bastide de Gordes (Gordes): A luxurious hotel located in a historic building,  oﬀering elegant rooms, beautiful gardens, and stunning views of the Luberon Valley. •  Hôtel Le Negresco (Nice): A luxurious hotel located on the Boulevard de la Croisette,  oﬀering elegant rooms, a private beach, and a Michelin-starred restaurant."
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 8,
+      "sub_section_title": "Budget-Friendly Hotels",
+      "refined_text": "The modern amenities and  convenient location make it a great choice for budget-conscious travelers. •  Hotel des Arts (Montpellier): A budget-friendly hotel located in the heart of  Montpellier, oﬀering comfortable rooms and easy access to the city's attractions. The modern amenities and convenient location  make it a great choice for budget-conscious travelers."
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 10,
+      "sub_section_title": "Montpellier: A University City with Medieval Charm",
+      "refined_text": "Montpellier has been a center of learning and innovation for centuries, attracting  scholars and students from around the world. Key Attractions  •  Place de la Comédie: The central square of Montpellier, this bustling area is  surrounded by cafes, shops, and the impressive Opéra Comédie. Student Life  •  University Influence: Highlight the vibrant student life and the influence of the  university on the city's culture."
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 5,
+      "sub_section_title": "Promenade des Anglais: This famous seaside promenade, built in the 19th century, is",
+      "refined_text": "perfect for a leisurely stroll along the coast. It oﬀers stunning views of the  Mediterranean and is lined with cafes and hotels."
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 6,
+      "sub_section_title": "Luxurious Restaurants",
+      "refined_text": "•  La Vague d'Or (Saint-Tropez): A three-Michelin-starred restaurant located in the  luxurious Résidence de la Pinède, oﬀering exquisite dishes inspired by the sea and the  land. The creative menu  and elegant ambiance make it a standout dining destination. •  Le Pavillon Ledoyen (Paris): A three-Michelin-starred restaurant oﬀering a variety of  dishes made with fresh, local ingredients."
+    }
+  ]
+}
