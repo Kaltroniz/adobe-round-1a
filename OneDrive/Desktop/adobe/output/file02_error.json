@@ -1,0 +1,5 @@
+{
+  "error": "[Errno 13] Permission denied: '/app/output/file02.json'",
+  "file": "file02.pdf",
+  "status": "processing_failed"
+}
