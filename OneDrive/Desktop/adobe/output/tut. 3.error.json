@@ -1,4 +1,0 @@
-{
-  "error": "module 'fitz' has no attribute 'TEXTFLAGS_DEFAULT'",
-  "file": "tut. 3.pdf"
-}
