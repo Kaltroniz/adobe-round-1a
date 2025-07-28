@@ -11,7 +11,7 @@ class AdvancedPDFProcessor:
     def __init__(self, pdf_path):
         """Initializes the extractor with a path to a PDF file."""
         self.doc = fitz.open(pdf_path)
-        self.min_score_threshold = 5
+        self.min_score_threshold = 7
         
         self.lines = self._extract_lines_with_features()
         self.body_style = self._find_dominant_style()
@@ -57,7 +57,7 @@ class AdvancedPDFProcessor:
                         lines.append(features)
                         prev_y = y1
         return lines
-   
+    # --- MODIFICATION END ---
 
     def _find_dominant_style(self):
         """Finds the most common style (size, bold) to identify body text."""
